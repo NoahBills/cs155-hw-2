@@ -54,7 +54,7 @@ course learning outcomes.
 |     | 7.3 | Understand Agile development techniques and software engineering best practices                      | Understand  | Quiz                  |
 
 - [Blooms Taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/)
-- [Booms Taxonomy of Verbs](https://tips.uark.edu/blooms-taxonomy-verb-chart/)
+- [Blooms Taxonomy of Verbs](https://tips.uark.edu/blooms-taxonomy-verb-chart/)
 
 ## Course Materials
 
